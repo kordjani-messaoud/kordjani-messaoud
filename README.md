@@ -14,7 +14,7 @@
 ### Welcome... Make your self home  
 I am a master's student in computer system security. I have a bachelor's degree in telecommunications and networks engineering. I am passionate about everything related to networking, LINUX🐧 , as well as security🔒.
 At the moment, I am particularly interested in Cloud technologies and DevOps, Ansible is my new best friend.
-I am excited to share my work and collaborate with others in the tech community. Feel free to take a look at my GitHub profile and connect with me.
+I am excited to share my work and collaborate with others in the tech community. Feel free to take a look at my projects and connect with me.
   
   
 
